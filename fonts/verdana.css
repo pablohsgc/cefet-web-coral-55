@@ -1,0 +1,12 @@
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */
+@font-face {
+    font-family: "verdana";
+    src: url("vernada.eot?") format("eot"),
+         url("vernada.woff") format("woff"),
+         url("vernada.woff2") format("woff2"),
+         url("vernada.ttf") format("truetype"),
+         url("vernada.svg#verdana") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
